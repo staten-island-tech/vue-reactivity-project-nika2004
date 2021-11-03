@@ -15,10 +15,10 @@ export default {
 </script>
 
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+ 
 body {
-  background-color: #EEEEEE;
-  font-family: 'Montserrat', sans-serif;
+  background-color: lightblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   display: grid;
   grid-template-rows: auto;
   justify-items: center;
